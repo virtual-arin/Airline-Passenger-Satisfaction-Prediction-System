@@ -16,6 +16,10 @@ The primary objective of this project is to develop a robust binary classificati
 * Identifies the most influential factors affecting customer experience
 * Helps airlines proactively detect dissatisfaction patterns
 * Enables data-driven improvements in service quality and operational efficiency
+* Satisfied : 1
+* Dissatisfied : 0
+
+
 
 ## 📊 Dataset
 
