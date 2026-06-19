@@ -38,13 +38,24 @@ Build a Machine Learning model that predicts passenger satisfaction based on tra
 
 ## 📂 Folder Structure
 ```text
-├── data/
-├── notebooks/
-├── models/
+📦 Airline-Passenger-Satisfaction-Prediction-System
+│
+├── 📁 data
+│   ├── train.csv
+│   ├── test.csv
+│   └── processed_data.csv
+│
+├── 📁 notebooks
+│   ├── Data Analysis.ipynb
+│   └── Model Training & Evaluation.ipynb
+│
+├── 📁 models
 │   └── passenger_satisfaction_model.pkl
+│
 ├── app.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## 🔄 End-to-End Workflow & Approach
