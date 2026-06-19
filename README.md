@@ -41,8 +41,7 @@ Build a Machine Learning model that predicts passenger satisfaction based on tra
 ├── data/
 ├── notebooks/
 ├── models/
-│   ├── passenger_satisfaction_model.pkl
-│   └── label_encoder.pkl
+│   └── passenger_satisfaction_model.pkl
 ├── app.py
 ├── requirements.txt
 └── README.md
